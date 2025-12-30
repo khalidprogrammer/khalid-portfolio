@@ -23,7 +23,7 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <div className="text-xs font-bold text-zinc-500 uppercase tracking-widest mb-1">Email Me</div>
-                  <div className="text-white font-medium">khalid.usman@gmail.com</div>
+                  <div className="text-white font-medium">khalid.csit1234@gmail.com</div>
                 </div>
               </div>
 
@@ -33,7 +33,7 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <div className="text-xs font-bold text-zinc-500 uppercase tracking-widest mb-1">Call Me</div>
-                  <div className="text-white font-medium">+93 (0) 7XX XXX XXX</div>
+                  <div className="text-white font-medium">+93 (0) 781757321</div>
                 </div>
               </div>
 
