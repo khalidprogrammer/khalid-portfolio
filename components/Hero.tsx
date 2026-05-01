@@ -60,7 +60,7 @@ const Hero: React.FC = () => {
           <div className="relative w-full h-full rounded-full overflow-hidden border-[6px] border-zinc-900 shadow-[0_0_60px_rgba(6,182,212,0.2)]">
             <img 
               src="/images/photo.png" 
-              alt="Khalid Usman Quraishi" 
+              alt="" 
               className="w-full h-full object-cover object-top scale-100 brightness-110 contrast-105"
               referrerPolicy="no-referrer"
             />
